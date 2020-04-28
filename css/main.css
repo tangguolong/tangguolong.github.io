@@ -30,7 +30,7 @@ h2 {font-size:46px; font-weight:normal;}
 #intro-text ul li a {display:inline-block;}
 #intro-text ul li a:hover {border-bottom:2px solid white;}
 #intro-text ul li span {display:inline-block; text-align:right; width:70px;}
-#intro-text div {display:inline-block; width:550px; margin-left:120px;}
+#intro-text div {display:inline-block; width:550px; margin-left:90px;}
 #intro-text>div>p {margin-bottom:26px;}
 
 /* block-skill */
